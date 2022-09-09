@@ -17,10 +17,7 @@ public class SuperGreeterx {
         navn = sc.nextLine();
 System.out.println("Hej" + " " + navn);
 
-int alder;
-System.out.println("Hvor gammel er du?");
-alder = sc.nextInt();
-System.out.println("Din alder er" + alder);
+
     }
     }
 
